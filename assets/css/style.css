@@ -161,7 +161,6 @@ a.email {
 a.address:hover,
 a.tel:hover,
 a.email:hover {
-    color: #00082c;
     transform: translateX(10%);
     transition: 0.5s;
     transition-delay: 0s;
